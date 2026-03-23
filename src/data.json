@@ -1,0 +1,50 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "Title": "Career Coach SaaS",
+      "Description": "Built full-stack AI-powered career platform with resume analysis, mock interviews, and personalized roadmaps using Next.js, Node.js, PostgreSQL, and OpenAI. Developed scalable REST APIs, authentication, monorepo architecture, and production-ready backend structure.",
+      "Features": [
+        "Resume Analysis with AI feedback",
+        "AI-powered Mock Interviews",
+        "Personalized Career Roadmaps",
+        "Scalable REST APIs",
+        "Monorepo Architecture"
+      ],
+      "Img": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=2070&auto=format&fit=crop",
+      "Github": "https://github.com/giridhar-123974/AI-Career-Coach-SaaS",
+      "TechStack": [
+        "Flask",
+        "Scikit-Learn",
+        "SQLAlchemy",
+        "Pandas",
+        "NumPy",
+        "Bootstrap",
+        "Chart.js"
+      ]
+    },
+    {
+      "id": "2",
+      "Title": "Smart Health Risk Predictor",
+      "Description": "Built AI healthcare platform predicting disease risks using ML models with FastAPI backend and React dashboard. Implemented secure authentication, REST APIs, automated ML pipeline, and health data visualization system.",
+      "Features": [
+        "Disease Risk Prediction using ML",
+        "FastAPI Backend & React Dashboard",
+        "Secure Authentication",
+        "Automated ML Pipeline",
+        "Health Data Visualization"
+      ],
+      "Img": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=2070&auto=format&fit=crop",
+      "Github": "https://github.com/giridhar-123974/Smart-Health-Risk-Predictor",
+      "TechStack": [
+        "FastAPI",
+        "React",
+        "Scikit-Learn",
+        "Pandas",
+        "MongoDB",
+        "PostgreSQL",
+        "Docker"
+      ]
+    }
+  ]
+}
